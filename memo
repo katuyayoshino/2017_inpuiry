@@ -1,0 +1,25 @@
+--必要なもの
+・emailアドレス
+・問い合わせ内容
+
+--必須ではない入力
+・名前
+
+--学習用
+・誕生日
+
+// --が//
+--問い合わせテーブル
+//
+DROP TABLE IF EXISTS テーブル名;
+CREATE TABLE テーブル名(
+  PRIMARY KEY ('')
+　　　　　　//なんの文字コードを使うか　　　//目印
+)CHARACTER SET 'utf8mb4',ENGINE=InnoDB, COMMENT='コメント';
+
+email varchar varbinary
+"local@part"
+local-part@domain-part
+
+//　　　　　　↓って書いてたらやばい会社
+birthday DATE(8) COMMENT='誕生日',
