@@ -23,3 +23,11 @@ local-part@domain-part
 
 //　　　　　　↓って書いてたらやばい会社
 birthday DATE(8) COMMENT='誕生日',
+
+
+・入力用のHTMLを作成する
+・入力値を受け取る
+・入力値のvalidate
+・gitへのcommitとpush
+
+・headerの理解
