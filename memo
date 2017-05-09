@@ -31,3 +31,11 @@ birthday DATE(8) COMMENT='誕生日',
 ・gitへのcommitとpush
 
 ・headerの理解
+
+
+0509--------------------
+・ヘッダを(軽く)理解する
+・セッションを使う
+・「エラー」の時、入力Pageに遷移
+・gitにソースをpush
+・DBに接続
